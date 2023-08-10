@@ -7,3 +7,6 @@
 **ACTION** - Harnessed the power of data-driven insights in order to strategically select players, using carefully defined criteria and performance metrics as guiding beacons.
 
 **RESULT** - The project culminated in crafting the ultimate 11-player dream team, while also unveiling invaluable insights into the intricacies of cricket player performance.
+
+
+You can access my full report by clicking on the following link: [https://app.powerbi.com/view?r=eyJrIjoiN2I3MDM5MzItNDE4Ny00OTFmLWE5N2UtMWM1MDVmMjE2OWE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
